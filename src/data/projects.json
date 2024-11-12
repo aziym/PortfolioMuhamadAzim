@@ -1,20 +1,29 @@
 [
   {
-    "title": "KAFA Management System",
+    "title": "Prototype KAFA Management System",
     "imageSrc": "projects/muip.png",
-    "description": "This is a group project made to our client, Majlis Agama Islam Pahang MUIP",
-    "skills": ["Laravel", "PHP", "HTML", "Blade", "CSS"],
-    "demo": "/",
+    "description": "Developed and tested a prototype system for parents to enroll their primary school children for extracurricular KAFA activities for Majlis Agama, Negeri Pahang",
+    "skills": ["Laravel", "PHP", "HTML5", "Blade", "CSS3"],
     "source": "https://github.com/SiLuncai/KAFA-Management-System.git"
   },
 
   {
-    "title": "Research Lab Management System (RLMS)",
+    "title": "Prototype Research Lab Management System",
     "imageSrc": "projects/umpsa.png",
-    "description": "This is a group project made to our client, Faculty of Computing Management for managing lab asset",
-    "skills": ["Html", "Javacript", "Blade", "CSS", "PHP"],
-    "demo": "/",
+    "description": "Developed and tested a prototype system to manage lab assets for Faculty of Computing, University Malaysia of Pahang Al-Sultan Abdullah",
+    "skills": ["HTML5", "Javacript", "Blade", "CSS3", "PHP", "Laravel"],
+    "source": "https://github.com/Hammershark224/SEM-rlms.git"
+  },
+
+  {
+    "title": "Prototype E-Munakahat System ",
+    "imageSrc": "projects/muip.png",
+    "description": "Developed and tested a prototype of a web-based system for couples in Pahang to register a marriage license for Majlis Agama Islam, Negeri Pahang.",
+    "skills": ["HTML5", "Javacript", "Blade", "CSS3", "PHP"],
+    
     "source": "https://github.com/Hammershark224/SEM-rlms.git"
   }
+  
+
  
 ]
