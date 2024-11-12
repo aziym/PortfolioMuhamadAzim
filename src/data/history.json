@@ -1,0 +1,38 @@
+[
+  {
+    "role": "Head of Barista",
+    "organisation": " 28 Studio and Coffee",
+    "startDate": "Oct, 2024",
+    "endDate": "June, 2024",
+    "experiences": ["Led a team of baristas", " Providing mentorship and training"],
+    "imageSrc": "history/28.jpeg"
+  },
+  {
+    "role": "Barista",
+    "organisation": "ZUS Coffee",
+    "startDate": "June, 2023",
+    "endDate": "Oct, 2023",
+    "experiences": ["Monitored inventory levels", "Operated the point of sale system"],
+    "imageSrc": "history/zus.jpeg"
+  },
+
+  {
+    "role": "Sales Assistant",
+    "organisation": "Watson",
+    "startDate": "June, 2022",
+    "endDate": "Oct, 2022",
+    "experiences": ["Conducted inventory checks", "Assisted customers"],
+    "imageSrc": "history/watson.png"
+  },
+  {
+    "role": "Store Crew",
+    "organisation": "Petronas",
+    "startDate": "June, 2021",
+    "endDate": "Oct, 2021",
+    "experiences": [
+      "Monitored inventory levels",
+      "Managed the cashier operations"
+    ],
+    "imageSrc": "history/petronas.png"
+  }
+]

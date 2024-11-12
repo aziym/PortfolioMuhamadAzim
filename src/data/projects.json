@@ -1,0 +1,20 @@
+[
+  {
+    "title": "KAFA Management System",
+    "imageSrc": "projects/muip.png",
+    "description": "This is a group project made to our client, Majlis Agama Islam Pahang MUIP",
+    "skills": ["Laravel", "PHP", "HTML", "Blade", "CSS"],
+    "demo": "/",
+    "source": "https://github.com/SiLuncai/KAFA-Management-System.git"
+  },
+
+  {
+    "title": "Research Lab Management System (RLMS)",
+    "imageSrc": "projects/umpsa.png",
+    "description": "This is a group project made to our client, Faculty of Computing Management for managing lab asset",
+    "skills": ["Html", "Javacript", "Blade", "CSS", "PHP"],
+    "demo": "/",
+    "source": "https://github.com/Hammershark224/SEM-rlms.git"
+  }
+ 
+]
