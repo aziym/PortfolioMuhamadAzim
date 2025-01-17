@@ -8,14 +8,6 @@
   },
 
   {
-    "title": "Prototype Research Lab Management System",
-    "imageSrc": "projects/umpsa.png",
-    "description": "Developed and tested a prototype system to manage lab assets for Faculty of Computing, University Malaysia of Pahang Al-Sultan Abdullah",
-    "skills": ["HTML5", "Javacript", "Blade", "CSS3", "PHP", "Laravel"],
-    "source": "https://github.com/Hammershark224/SEM-rlms.git"
-  },
-
-  {
     "title": "TCPI Predict (Students Perfromance Prediction with machine learning) ",
     "imageSrc": "projects/tcpi.jpg",
     "description": "A study focused on developing a machine learning model to predict student performance at Tadika Cahaya Permata Ibu. ",
