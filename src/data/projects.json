@@ -16,12 +16,12 @@
   },
 
   {
-    "title": "Prototype E-Munakahat System ",
-    "imageSrc": "projects/muip.png",
-    "description": "Developed and tested a prototype of a web-based system for couples in Pahang to register a marriage license for Majlis Agama Islam, Negeri Pahang.",
+    "title": "TCPI Predict (Students Perfromance Prediction with machine learning) ",
+    "imageSrc": "projects/tcpi.jpg",
+    "description": "A study focused on developing a machine learning model to predict student performance at Tadika Cahaya Permata Ibu. ",
     "skills": ["HTML5", "Javacript", "Blade", "CSS3", "PHP"],
     
-    "source": "https://github.com/Hammershark224/SEM-rlms.git"
+    "source": "https://students-prediction-frontend.vercel.app/"
   }
   
 
