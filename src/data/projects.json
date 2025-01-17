@@ -19,11 +19,28 @@
     "title": "TCPI Predict (Students Perfromance Prediction with machine learning) ",
     "imageSrc": "projects/tcpi.jpg",
     "description": "A study focused on developing a machine learning model to predict student performance at Tadika Cahaya Permata Ibu. ",
-    "skills": ["HTML5", "Javacript", "Blade", "CSS3", "PHP"],
+    "skills": ["Python", "Javacript", "React", "NodeJS", "Flask"],
     
     "source": "https://students-prediction-frontend.vercel.app/"
-  }
-  
+  },
+
+  {
+    "title": "My-Savings Calculator",
+    "imageSrc": "projects/savings.jpg",
+    "description": "My Savings Calculator helps you plan savings by setting a target amount, goal date, and monthly income. It shows how much to save each month to reach your goal",
+    "skills": ["React", "NodeJS", "HTML5", "CSS3"],
+    
+    "source": "https://my-savings-calculator.vercel.app/"
+  },
+
+  {
+    "title": "My-Bill Splitter Calculator",
+    "imageSrc": "projects/bill.jpg",
+    "description": "My Bill Splitter makes it easy to split bills. Add names, customize with tax, and see how much everyone owes quickly and fairly",
+    "skills": ["React", "NodeJS", "HTML5", "CSS3"],
+    
+    "source": "https://my-bill-splitter-chi.vercel.app/"
+  }  
 
  
 ]
