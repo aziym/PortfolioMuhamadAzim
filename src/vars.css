@@ -1,9 +1,10 @@
 :root{
-    --color-text: #fff;             /* Keeping white text for contrast */
-    --color-primary: #2E8B57;       /* Sea Green - for primary elements */
-    --color-secondary: #1F593A;     /* Darker forest green - for secondary elements */
-    --color-dark: #133524;          /* Very dark green - for deeper elements */
-    --color-bg: #0A1F15;  
+    /*Colours*/
+    --color-text: #fff;
+    --color-primary: #2E8B57;
+    --color-secondary: #1F593A;
+    --color-dark: #133524;
+    --color-bg: #0A1F15;
 
     /*Fonts*/
 
