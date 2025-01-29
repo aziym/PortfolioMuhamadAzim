@@ -9,16 +9,12 @@ export const About = () => {
       <h2 className={styles.title}>About Me</h2>
       <div className={styles.content}>
         <img
-          src={getImageUrl("about/aboutImage.png")}
+          src={getImageUrl("about/aboutImage1.png")}
           alt="Me sitting with a laptop"
           className={styles.aboutImage}
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-          <img src={getImageUrl("about/user.png")} 
-          alt="Cursor icon" 
-          className={styles.aboutIcon}
-          />
             <div className={styles.aboutItemText}>
               <h3>Full Name</h3>
               <br></br>
@@ -28,10 +24,6 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-          <img src={getImageUrl("about/graduation.png")} 
-            alt="Cursor icon" 
-            className={styles.aboutIcon}
-          />
             <div className={styles.aboutItemText}>
               <h3>Education</h3>
               <br></br>
@@ -43,22 +35,14 @@ export const About = () => {
               <p>-  Foundation in Engineering and Technology</p> 
             </div>
           </li>
-          <li className={styles.aboutItem}>
-          <img src={getImageUrl("about/marker.png")} 
-            alt="Cursor icon" 
-            className={styles.aboutIcon}
-          />  
+          <li className={styles.aboutItem}>  
             <div className={styles.aboutItemText}>
               <h3>Location</h3>
               <br></br>
               <p >Kuala Lumpur, Malaysia </p>              
             </div>
           </li>
-          <li className={styles.aboutItem}>
-          <img src={getImageUrl("about/chart.png")} 
-            alt="Cursor icon" 
-            className={styles.aboutIcon}
-          />    
+          <li className={styles.aboutItem}>  
             <div className={styles.aboutItemText}>
               <h3>Profession</h3>
               <br></br>
@@ -66,10 +50,6 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-          <img src={getImageUrl("about/megaphone.png")} 
-            alt="Cursor icon" 
-            className={styles.aboutIcon}
-          />   
             <div className={styles.aboutItemText}>
               <h3>Language Proficiency</h3>
               <br></br>
